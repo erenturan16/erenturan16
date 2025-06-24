@@ -1,7 +1,7 @@
 <h2 align="center">👋 Merhaba, ben Eren</h2>
 <p align="center">
   16 yaşındayım ve web geliştiriciliği öğreniyorum.  
-  HTML, CSS, JavaScript, TypeScript ve Next.js gibi teknolojilerle projeler geliştiriyorum.
+  HTML, CSS, JavaScript ve Next.js gibi teknolojilerle projeler geliştiriyorum.
 </p>
 
 ---
