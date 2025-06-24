@@ -1,36 +1,33 @@
-<h2 align="center">👋 Hi, I'm Eren</h2>
+<h2 align="center">👋 Merhaba, ben Eren</h2>
 <p align="center">
-  A passionate Frontend Developer who loves building clean, responsive and interactive web applications.
+  16 yaşındayım ve web geliştiriciliği öğreniyorum.  
+  HTML, CSS, JavaScript, TypeScript ve Next.js gibi teknolojilerle projeler geliştiriyorum.
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Kullandığım Teknolojiler
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind&theme=light" />
 </div>
 
 ---
 
-### 📈 GitHub Stats:
+### 📈 GitHub İstatistikleri
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erenturan16&show_icons=true&theme=tokyonight&hide=stars&count_private=true" alt="GitHub Stats" />
+  <br />
+
 </p>
 
 ---
----
 
-### 🔤 Most Used Languages
+### 📫 İletişim
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs&theme=light" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-50%25-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/CSS-50%25-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-50%25-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Next.js-50%25-black?style=flat-square" />
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-@515.eren-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/515.eren)
 
 ---
+
+> 👨‍💻 Her gün yeni bir şey öğrenmek için buradayım.
