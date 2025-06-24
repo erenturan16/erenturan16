@@ -14,23 +14,24 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eren&show_icons=true&theme=tokyonight&hide=stars&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eren&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eren&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erenturan16&show_icons=true&theme=tokyonight&hide=stars&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
-
-### 🚀 Projects I'm working on
-- 🧠 **AI Office Manager** – Admin/member panel, görev dağıtımı, günlük planlama sistemi
-
 ---
 
-### 📫 Let's Connect
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/515.eren)  
+### 🔤 Most Used Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs&theme=light" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-50%25-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS-50%25-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-50%25-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-50%25-3178c6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-50%25-black?style=flat-square" />
+</p>
 
 ---
-
-> “Good code is its own best documentation.” — Steve McConnell
