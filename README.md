@@ -7,7 +7,7 @@
 
 ### 🧰 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vscode" />
 </div>
 
 ---
@@ -23,14 +23,13 @@
 ### 🔤 Most Used Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs&theme=light" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-50%25-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/CSS-50%25-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/JavaScript-50%25-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/TypeScript-50%25-3178c6?style=flat-square" />
   <img src="https://img.shields.io/badge/Next.js-50%25-black?style=flat-square" />
 </p>
 
