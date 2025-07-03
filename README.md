@@ -9,7 +9,7 @@
 ### 🧰 Kullandığım Teknolojiler
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind&theme=light" />
 </div>
 
 ---
